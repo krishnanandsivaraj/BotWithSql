@@ -1,0 +1,42 @@
+D:\Bot Application (2)\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+D:\Bot Application (2)\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+D:\Bot Application (2)\bin\Bot Application.dll.config
+D:\Bot Application (2)\bin\Bot Application.dll
+D:\Bot Application (2)\bin\Bot Application.pdb
+D:\Bot Application (2)\bin\Autofac.dll
+D:\Bot Application (2)\bin\Chronic.dll
+D:\Bot Application (2)\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Bot Application (2)\bin\Microsoft.Bot.Builder.dll
+D:\Bot Application (2)\bin\Microsoft.Bot.Connector.dll
+D:\Bot Application (2)\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Bot Application (2)\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Bot Application (2)\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Bot Application (2)\bin\Newtonsoft.Json.dll
+D:\Bot Application (2)\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Bot Application (2)\bin\System.Net.Http.Formatting.dll
+D:\Bot Application (2)\bin\System.Web.Http.dll
+D:\Bot Application (2)\bin\System.Web.Http.WebHost.dll
+D:\Bot Application (2)\bin\Autofac.xml
+D:\Bot Application (2)\bin\Microsoft.Bot.Builder.xml
+D:\Bot Application (2)\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Bot Application (2)\bin\Microsoft.Bot.Connector.xml
+D:\Bot Application (2)\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Bot Application (2)\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Bot Application (2)\bin\Newtonsoft.Json.xml
+D:\Bot Application (2)\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Bot Application (2)\bin\System.Net.Http.Formatting.xml
+D:\Bot Application (2)\bin\System.Web.Http.xml
+D:\Bot Application (2)\bin\System.Web.Http.WebHost.xml
+D:\Bot Application (2)\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Bot Application (2)\obj\Debug\Bot Application.csproj.CopyComplete
+D:\Bot Application (2)\obj\Debug\Bot Application.dll
+D:\Bot Application (2)\obj\Debug\Bot Application.pdb
